@@ -1,4 +1,7 @@
-# README
+# Rails-demo
+Rails demo project from ["Agile web development with Rails 6"](https://www.amazon.com.au/Agile-Web-Development-Rails-6/dp/1680506706) book.
+
+------
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
